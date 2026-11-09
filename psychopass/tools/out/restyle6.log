@@ -1,0 +1,5 @@
+R_scene 1 items refs=assets/_bg_detailed/scene.png
+[R_scene] exit 0 in 65s
+  ok  bg_scene -> assets\bg\scene.png
+[R_scene] 1/1 collected
+ALL DONE: R_scene

@@ -1,0 +1,5 @@
+1. id "ch_chisato_sad": Expression: sad: eyebrows tilted up in the middle, eyes lowered, mouth a small downturned line. Everything else unchanged.
+2. id "ch_chisato_cry": Expression: crying: tears running down both cheeks, eyebrows tilted up, lips trembling. Everything else unchanged.
+3. id "ch_chisato_pout": Expression: pouting and sulky: cheeks a little puffed, lips pushed out, looking aside. Everything else unchanged.
+4. id "ch_chisato_worried": Expression: worried: eyebrows knitted and tilted up, eyes uneasy, lips pressed together. Everything else unchanged.
+5. id "ch_chisato_hurt": The same girl after a hard fight: dust smudges on the red uniform, a small adhesive bandage on her right cheek, a few strands of blonde hair out of place. Arms hanging at her sides. Expression: grim and serious, jaw set, eyes hard. Everything else unchanged.

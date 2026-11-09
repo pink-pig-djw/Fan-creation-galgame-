@@ -1,0 +1,129 @@
+G_home1 3 items refs=assets/ch/chisato_pj.png,assets/ch/takina_normal.png,assets/ch/takina_pj.png
+G_home2 3 items refs=assets/ch/chisato_pj.png,assets/ch/takina_pj.png
+G_cafe 3 items refs=assets/ch/chisato_cafe.png,assets/ch/takina_cafe.png,assets/ch/koharu_normal.png
+G_game 1 items refs=assets/ch/chisato_cafe.png,assets/ch/takina_cafe.png,assets/ch/koharu_normal.png,assets/ch/mika_normal.png,assets/ch/mizuki_normal.png,assets/ch/kurumi_normal.png
+G_lyco 6 items refs=assets/ch/chisato_normal.png,assets/ch/takina_normal.png
+G_shop 1 items refs=assets/ch/koharu_normal.png,assets/ch/chisato_casual.png
+G_aqua 3 items refs=assets/ch/chisato_casual.png,assets/ch/takina_casual.png,assets/ch/akari_normal.png,assets/ch/shiomi_normal.png
+G_kurumi 2 items refs=assets/ch/kurumi_normal.png,assets/ch/chisato_normal.png,assets/ch/takina_normal.png
+G_cakes 1 items refs=assets/ch/shiomi_normal.png,assets/ch/kusunoki_normal.png,assets/ch/chisato_cafe.png
+G_lyco4 3 items refs=assets/ch/fuki_normal.png,assets/ch/sakura_normal.png,assets/ch/chisato_normal.png,assets/ch/takina_normal.png
+G_shiomi 4 items refs=assets/ch/chisato_normal.png,assets/ch/shiomi_normal.png
+G_quiet 2 items refs=assets/ch/chisato_normal.png,assets/ch/yamagishi_normal.png,assets/ch/mika_normal.png,assets/ch/chisato_cafe.png
+G_still 3 items refs=
+G_ferris 1 items refs=assets/ch/chisato_casual.png,assets/ch/takina_casual.png
+G_cell 3 items refs=assets/ch/takina_captive.png,assets/ch/shiomi_normal.png
+G_video 1 items refs=assets/ch/takina_captive.png,assets/ch/chisato_normal.png,assets/ch/mizuki_normal.png,assets/ch/mika_normal.png
+G_kurumi2 2 items refs=assets/ch/kurumi_normal.png,assets/ch/mizuki_normal.png
+G_karasuma 2 items refs=assets/ch/karasuma_normal.png,assets/ch/chisato_normal.png
+G_memory 3 items refs=assets/ch/chisato_normal.png,assets/ch/mika_normal.png,assets/ch/mizuki_normal.png
+G_fuki 2 items refs=assets/ch/fuki_normal.png,assets/ch/sakura_normal.png,assets/ch/chisato_normal.png
+G_climax 4 items refs=assets/ch/chisato_normal.png,assets/ch/takina_captive.png,assets/ch/shiomi_normal.png
+G_dawn 1 items refs=assets/ch/kusunoki_normal.png,assets/ch/mika_normal.png,assets/ch/chisato_normal.png,assets/ch/takina_captive.png
+G_group 1 items refs=assets/ch/chisato_cafe.png,assets/ch/takina_cafe.png,assets/ch/mika_normal.png,assets/ch/mizuki_normal.png,assets/ch/kurumi_normal.png,assets/ch/fuki_normal.png,assets/ch/sakura_normal.png
+G_title 1 items refs=assets/ch/chisato_normal.png,assets/ch/takina_normal.png
+[G_title] exit 0 in 535s
+  ok  cg_title -> assets\cg\title.png
+[G_title] 1/1 collected
+[G_home1] exit 0 in 884s
+  ok  cg_p_morning -> assets\cg\p_morning.png
+  ok  cg_p_breakfast -> assets\cg\p_breakfast.png
+  ok  cg_c1_movie -> assets\cg\c1_movie.png
+[G_home1] 3/3 collected
+[G_shop] exit 0 in 88s
+  ok  cg_c1_flowershop -> assets\cg\c1_flowershop.png
+[G_shop] 1/1 collected
+[G_cafe] exit 0 in 1003s
+  ok  cg_p_open -> assets\cg\p_open.png
+  ok  cg_p_koharu -> assets\cg\p_koharu.png
+  ok  cg_c1_empty -> assets\cg\c1_empty.png
+[G_cafe] 3/3 collected
+[G_lyco] exit 0 in 543s
+  ok  cg_c1_alley -> assets\cg\c1_alley.png
+  ok  cg_c1_apartment -> assets\cg\c1_apartment.png
+  ok  cg_c1_tag -> assets\cg\c1_tag.png
+  ok  cg_c4_bait -> assets\cg\c4_bait.png
+  ok  cg_c4_phone -> assets\cg\c4_phone.png
+  ok  cg_c4_rain -> assets\cg\c4_rain.png
+[G_lyco] 6/6 collected
+[G_game] exit 0 in 1114s
+  ok  cg_c1_boardgame -> assets\cg\c1_boardgame.png
+[G_game] 1/1 collected
+[G_kurumi] exit 0 in 135s
+  ok  cg_c2_list -> assets\cg\c2_list.png
+  ok  cg_c4_walnut -> assets\cg\c4_walnut.png
+[G_kurumi] 2/2 collected
+[G_cakes] exit 0 in 84s
+  ok  cg_c2_cakes -> assets\cg\c2_cakes.png
+[G_cakes] 1/1 collected
+[G_aqua] exit 0 in 353s
+  ok  cg_c2_sakana -> assets\cg\c2_sakana.png
+  ok  cg_c2_knife -> assets\cg\c2_knife.png
+  ok  cg_c2_van -> assets\cg\c2_van.png
+[G_aqua] 3/3 collected
+[G_quiet] exit 0 in 237s
+  ok  cg_c3_clinic -> assets\cg\c3_clinic.png
+  ok  cg_c3_counter -> assets\cg\c3_counter.png
+[G_quiet] 2/2 collected
+[G_lyco4] exit 0 in 291s
+  ok  cg_c3_duo -> assets\cg\c3_duo.png
+  ok  cg_c3_raid -> assets\cg\c3_raid.png
+  ok  cg_c5_park -> assets\cg\c5_park.png
+[G_lyco4] 3/3 collected
+[G_still] exit 0 in 119s
+  ok  cg_c3_bouquet -> assets\cg\c3_bouquet.png
+  ok  cg_c5_tile -> assets\cg\c5_tile.png
+  ok  cg_b_empty -> assets\cg\b_empty.png
+[G_still] 3/3 collected
+[G_video] exit 0 in 85s
+  ok  cg_c5_video -> assets\cg\c5_video.png
+[G_video] 1/1 collected
+[G_ferris] exit 0 in 133s
+  ok  cg_c4_ferris -> assets\cg\c4_ferris.png
+[G_ferris] 1/1 collected
+[G_shiomi] exit 0 in 489s
+  ok  cg_c3_gunfight -> assets\cg\c3_gunfight.png
+  ok  cg_c3_shiomi -> assets\cg\c3_shiomi.png
+  ok  cg_c3_wall -> assets\cg\c3_wall.png
+  ok  cg_c3_rooftop -> assets\cg\c3_rooftop.png
+[G_shiomi] 4/4 collected
+[G_karasuma] exit 0 in 155s
+  ok  cg_c5_karasuma -> assets\cg\c5_karasuma.png
+  ok  cg_c5_sniped -> assets\cg\c5_sniped.png
+[G_karasuma] 2/2 collected
+[G_cell] exit 0 in 294s
+  ok  cg_i1_hood -> assets\cg\i1_hood.png
+  ok  cg_i2_cell -> assets\cg\i2_cell.png
+  ok  cg_i2_ribbon -> assets\cg\i2_ribbon.png
+[G_cell] 3/3 collected
+[G_kurumi2] exit 0 in 240s
+  ok  cg_c5_kurumi -> assets\cg\c5_kurumi.png
+  ok  cg_b_trade -> assets\cg\b_trade.png
+[G_kurumi2] 2/2 collected
+[G_fuki] exit 0 in 156s
+  ok  cg_c5_fuki -> assets\cg\c5_fuki.png
+  ok  cg_c6_sakura -> assets\cg\c6_sakura.png
+[G_fuki] 2/2 collected
+[G_dawn] exit 0 in 151s
+  ok  cg_c6_standoff -> assets\cg\c6_standoff.png
+[G_dawn] 1/1 collected
+[G_group] exit 0 in 151s
+  ok  cg_e_cafe -> assets\cg\e_cafe.png
+[G_group] 1/1 collected
+[G_memory] exit 0 in 462s
+  ok  cg_c5_memory -> assets\cg\c5_memory.png
+  ok  cg_c5_ready -> assets\cg\c5_ready.png
+  ok  cg_c6_fence -> assets\cg\c6_fence.png
+[G_memory] 3/3 collected
+[G_climax] exit 0 in 425s
+  ok  cg_c6_rescue -> assets\cg\c6_rescue.png
+  ok  cg_c6_duel -> assets\cg\c6_duel.png
+  ok  cg_c6_stop -> assets\cg\c6_stop.png
+  ok  cg_b_live -> assets\cg\b_live.png
+[G_climax] 4/4 collected
+[G_home2] exit 0 in 215s
+  ok  cg_c2_backtoback -> assets\cg\c2_backtoback.png
+  ok  cg_c2_phone -> assets\cg\c2_phone.png
+  ok  cg_c4_bed -> assets\cg\c4_bed.png
+[G_home2] 3/3 collected
+ALL DONE: G_title G_home1 G_cafe G_game G_lyco G_shop G_aqua G_kurumi G_cakes G_lyco4 G_shiomi G_quiet G_still G_ferris G_cell G_video G_kurumi2 G_karasuma G_memory G_fuki G_climax G_dawn G_group G_home2

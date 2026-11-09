@@ -1,0 +1,102 @@
+C1_still 5 items 
+C2_home 3 items refs=assets/ch/akane_home.png
+C3_team 3 items refs=assets/ch/akane_normal.png,assets/ch/ginoza_normal.png,assets/ch/hinakawa_normal.png,assets/ch/yayoi_normal.png
+C3_lab 1 items refs=assets/ch/akane_normal.png,assets/ch/shion_normal.png,assets/ch/ginoza_normal.png
+C4_pair 3 items refs=assets/ch/akane_normal.png,assets/ch/mika_normal.png
+C4_slap 2 items refs=assets/ch/akane_normal.png,assets/ch/mika_angry.png
+C5_aoi 3 items refs=assets/ch/akane_normal.png,assets/ch/aoi_normal.png
+C5_dinner 1 items refs=assets/ch/akane_home.png,assets/ch/aoi_normal.png
+C6_mika 3 items refs=assets/ch/mika_normal.png,assets/ch/kagami_normal.png
+C6_mika2 2 items refs=assets/ch/mika_sad.png
+C7_afterimage 2 items refs=assets/ch/akane_normal.png,assets/ch/mika_normal.png,assets/ch/shirasagi_holo.png,assets/ch/kiri_normal.png
+C8_mari 2 items refs=assets/ch/mari_normal.png,assets/ch/akane_normal.png
+C9_akane 3 items refs=assets/ch/akane_normal.png
+C9_akane2 2 items refs=assets/ch/akane_normal.png
+C10_kagami 1 items refs=assets/ch/akane_normal.png,assets/ch/kagami_normal.png
+C11_shira 3 items refs=assets/ch/shirasagi_real.png,assets/ch/akane_normal.png,assets/ch/mika_normal.png
+C12_kasei 2 items refs=assets/ch/kasei_normal.png,assets/ch/akane_normal.png,assets/ch/mika_normal.png
+C13_candy 1 items refs=assets/ch/candy_normal.png
+[C4_slap] exit 0 in 145s
+  ok  cg_slap1 -> assets\cg\slap1.png
+  ok  cg_slap2 -> assets\cg\slap2.png
+[C4_slap] 2/2 collected
+[C2_home] exit 0 in 205s
+  ok  cg_mirror -> assets\cg\mirror.png
+  ok  cg_smoke -> assets\cg\smoke.png
+  ok  cg_message -> assets\cg\message.png
+[C2_home] 3/3 collected
+[C1_still] exit 0 in 298s
+  ok  cg_prologue -> assets\cg\prologue.png
+  ok  cg_teacup -> assets\cg\teacup.png
+  ok  cg_oldman -> assets\cg\oldman.png
+  ok  cg_doorscan -> assets\cg\doorscan.png
+  ok  cg_smoke2 -> assets\cg\smoke2.png
+[C1_still] 5/5 collected
+[C5_aoi] exit 0 in 306s
+  ok  cg_house -> assets\cg\house.png
+  ok  cg_bad_room -> assets\cg\bad_room.png
+  ok  cg_title -> assets\cg\title.png
+[C5_aoi] 3/3 collected
+[C3_lab] exit 0 in 155s
+  ok  cg_scanner -> assets\cg\scanner.png
+[C3_lab] 1/1 collected
+[C5_dinner] exit 0 in 78s
+  ok  cg_dinner -> assets\cg\dinner.png
+[C5_dinner] 1/1 collected
+[C3_team] exit 0 in 322s
+  ok  cg_wagon -> assets\cg\wagon.png
+  ok  cg_ginoza -> assets\cg\ginoza.png
+  ok  cg_hina -> assets\cg\hina.png
+[C3_team] 3/3 collected
+[C4_pair] exit 0 in 219s
+  ok  cg_scene_sheet -> assets\cg\scene_sheet.png
+  ok  cg_dom_holo -> assets\cg\dom_holo.png
+  ok  cg_pass -> assets\cg\pass.png
+[C4_pair] 3/3 collected
+[C6_mika] exit 0 in 204s
+  ok  cg_mika_msg -> assets\cg\mika_msg.png
+  ok  cg_chapel -> assets\cg\chapel.png
+  ok  cg_bad_target -> assets\cg\bad_target.png
+[C6_mika] 3/3 collected
+[C7_afterimage] exit 0 in 128s
+  ok  cg_lobby -> assets\cg\lobby.png
+  ok  cg_server -> assets\cg\server.png
+[C7_afterimage] 2/2 collected
+[C6_mika2] exit 0 in 291s
+  ok  cg_cry_mika -> assets\cg\cry_mika.png
+  ok  cg_bad_turbid -> assets\cg\bad_turbid.png
+[C6_mika2] 2/2 collected
+[C8_mari] exit 0 in 192s
+  ok  cg_mari -> assets\cg\mari.png
+  ok  cg_mari_door -> assets\cg\mari_door.png
+[C8_mari] 2/2 collected
+[C10_kagami] exit 0 in 72s
+  ok  cg_dom_kagami -> assets\cg\dom_kagami.png
+[C10_kagami] 1/1 collected
+[C9_akane2] exit 0 in 190s
+  ok  cg_cry -> assets\cg\cry.png
+  ok  cg_title_true -> assets\cg\title_true.png
+[C9_akane2] 2/2 collected
+[C9_akane] exit 0 in 263s
+  ok  cg_rain -> assets\cg\rain.png
+  ok  cg_corridor -> assets\cg\corridor.png
+  ok  cg_normal -> assets\cg\normal.png
+[C9_akane] 3/3 collected
+[C13_candy] exit 0 in 80s
+  ok  cg_bad_home -> assets\cg\bad_home.png
+[C13_candy] 1/1 collected
+[C12_kasei] exit 0 in 143s
+  ok  cg_kasei -> assets\cg\kasei.png
+  ok  cg_kasei_end -> assets\cg\kasei_end.png
+[C12_kasei] 2/2 collected
+[C11_shira] exit 0 in 271s
+  ok  cg_reveal -> assets\cg\reveal.png
+  ok  cg_zero -> assets\cg\zero.png
+  ok  cg_arrest -> assets\cg\arrest.png
+[C11_shira] 3/3 collected
+ALL DONE: C4_slap C5_aoi C1_still C2_home C3_team C3_lab C4_pair C5_dinner C6_mika C6_mika2 C7_afterimage C8_mari C9_akane C9_akane2 C10_kagami C11_shira C12_kasei C13_candy
+C5_glitch 1 items refs=assets/cg/house.png,assets/ch/aoi_glitch.png
+[C5_glitch] exit 0 in 97s
+  ok  cg_house_glitch -> assets\cg\house_glitch.png
+[C5_glitch] 1/1 collected
+ALL DONE: C5_glitch

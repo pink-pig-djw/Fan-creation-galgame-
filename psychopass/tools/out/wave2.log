@@ -1,0 +1,27 @@
+E_akane_a 4 items refs=assets/ch/akane_normal.png
+E_akane_b 4 items refs=assets/ch/akane_normal.png
+E_mika_a 3 items refs=assets/ch/mika_normal.png
+E_mika_b 3 items refs=assets/ch/mika_normal.png
+[E_akane_a] exit 0 in 216s
+  ok  ch_akane_smile -> assets\ch\akane_smile.png
+  ok  ch_akane_serious -> assets\ch\akane_serious.png
+  ok  ch_akane_surprised -> assets\ch\akane_surprised.png
+  ok  ch_akane_sad -> assets\ch\akane_sad.png
+[E_akane_a] 4/4 collected
+[E_mika_a] exit 0 in 260s
+  ok  ch_mika_angry -> assets\ch\mika_angry.png
+  ok  ch_mika_surprised -> assets\ch\mika_surprised.png
+  ok  ch_mika_smirk -> assets\ch\mika_smirk.png
+[E_mika_a] 3/3 collected
+[E_mika_b] exit 0 in 321s
+  ok  ch_mika_scared -> assets\ch\mika_scared.png
+  ok  ch_mika_cry -> assets\ch\mika_cry.png
+  ok  ch_mika_sad -> assets\ch\mika_sad.png
+[E_mika_b] 3/3 collected
+[E_akane_b] exit 0 in 362s
+  ok  ch_akane_angry -> assets\ch\akane_angry.png
+  ok  ch_akane_hurt -> assets\ch\akane_hurt.png
+  ok  ch_akane_closed -> assets\ch\akane_closed.png
+  ok  ch_akane_home -> assets\ch\akane_home.png
+[E_akane_b] 4/4 collected
+ALL DONE: E_akane_a E_akane_b E_mika_a E_mika_b

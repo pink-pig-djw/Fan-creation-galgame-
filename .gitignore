@@ -1,0 +1,6 @@
+# Only the Lycoris Recoil and PSYCHO-PASS fan games are tracked in this repo
+/*
+!/.gitignore
+!/lycoris/
+!/psychopass/
+node_modules/

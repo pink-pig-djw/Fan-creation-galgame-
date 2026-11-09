@@ -1,0 +1,4 @@
+1. id "ch_chisato_cafe_normal": Expression: a calm, easy small smile with mouth closed. Her waving hand is now lowered and rests at her side (the tray stays in the other hand). Everything else unchanged.
+2. id "ch_chisato_cafe_grin": Expression: a teasing, mischievous grin, one eye slightly narrowed, playful. Everything else unchanged.
+3. id "ch_chisato_cafe_surprised": Expression: surprised: eyes wide open, eyebrows raised, mouth a small open "o". Her waving hand is now lowered and rests at her side (the tray stays in the other hand). Everything else unchanged.
+4. id "ch_chisato_cafe_pout": Expression: pouting and sulky: cheeks a little puffed, lips pushed out, looking aside. Her waving hand is now lowered and rests at her side (the tray stays in the other hand). Everything else unchanged.

@@ -1,0 +1,13 @@
+X_teacup 1 items 
+X_mari 1 items refs=assets/ch/mari_normal.png,assets/ch/akane_normal.png
+X_oldman 1 items 
+[X_teacup] exit 0 in 74s
+  ok  cg_teacup -> assets\cg\teacup.png
+[X_teacup] 1/1 collected
+[X_mari] exit 0 in 78s
+  ok  cg_mari -> assets\cg\mari.png
+[X_mari] 1/1 collected
+[X_oldman] exit 0 in 79s
+  ok  cg_oldman -> assets\cg\oldman.png
+[X_oldman] 1/1 collected
+ALL DONE: X_teacup X_mari X_oldman

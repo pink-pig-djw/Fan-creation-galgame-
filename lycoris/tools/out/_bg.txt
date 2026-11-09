@@ -1,0 +1,49 @@
+B1_cafe 5 items 
+B2_home 5 items 
+B3_town 5 items 
+B4_places 5 items 
+B5_ops 5 items 
+B6_facility 5 items 
+[B2_home] exit 0 in 228s
+  ok  bg_kurumi_room -> assets\bg\kurumi_room.png
+  ok  bg_chisato_room -> assets\bg\chisato_room.png
+  ok  bg_chisato_room_night -> assets\bg\chisato_room_night.png
+  ok  bg_bedroom_night -> assets\bg\bedroom_night.png
+  ok  bg_dorm -> assets\bg\dorm.png
+[B2_home] 5/5 collected
+[B3_town] exit 0 in 249s
+  ok  bg_street -> assets\bg\street.png
+  ok  bg_street_night -> assets\bg\street_night.png
+  ok  bg_alley_night -> assets\bg\alley_night.png
+  ok  bg_river -> assets\bg\river.png
+  ok  bg_station -> assets\bg\station.png
+[B3_town] 5/5 collected
+[B1_cafe] exit 0 in 303s
+  ok  bg_cafe_front -> assets\bg\cafe_front.png
+  ok  bg_cafe_front_night -> assets\bg\cafe_front_night.png
+  ok  bg_cafe -> assets\bg\cafe.png
+  ok  bg_cafe_night -> assets\bg\cafe_night.png
+  ok  bg_cafe_back -> assets\bg\cafe_back.png
+[B1_cafe] 5/5 collected
+[B4_places] exit 0 in 214s
+  ok  bg_flowershop -> assets\bg\flowershop.png
+  ok  bg_koharu_apt -> assets\bg\koharu_apt.png
+  ok  bg_aquarium -> assets\bg\aquarium.png
+  ok  bg_clinic -> assets\bg\clinic.png
+  ok  bg_rooftop_night -> assets\bg\rooftop_night.png
+[B4_places] 5/5 collected
+[B5_ops] exit 0 in 264s
+  ok  bg_hideout -> assets\bg\hideout.png
+  ok  bg_warehouse -> assets\bg\warehouse.png
+  ok  bg_amusement -> assets\bg\amusement.png
+  ok  bg_car_night -> assets\bg\car_night.png
+  ok  bg_da_hq -> assets\bg\da_hq.png
+[B5_ops] 5/5 collected
+[B6_facility] exit 0 in 225s
+  ok  bg_facility_gate -> assets\bg\facility_gate.png
+  ok  bg_facility_corridor -> assets\bg\facility_corridor.png
+  ok  bg_tile_room -> assets\bg\tile_room.png
+  ok  bg_training_hall -> assets\bg\training_hall.png
+  ok  bg_lycoris_field -> assets\bg\lycoris_field.png
+[B6_facility] 5/5 collected
+ALL DONE: B1_cafe B2_home B3_town B4_places B5_ops B6_facility

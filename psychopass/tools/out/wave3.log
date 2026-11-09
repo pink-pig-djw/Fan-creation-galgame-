@@ -1,0 +1,90 @@
+E_akane_h 2 items refs=assets/ch/akane_home.png
+E_ginoza 3 items refs=assets/ch/ginoza_normal.png
+E_yayoi 2 items refs=assets/ch/yayoi_normal.png
+E_hinakawa 2 items refs=assets/ch/hinakawa_normal.png
+E_shion 2 items refs=assets/ch/shion_normal.png
+E_kasei 1 items refs=assets/ch/kasei_normal.png
+E_kiri 3 items refs=assets/ch/kiri_normal.png
+E_shirasagi 2 items refs=assets/ch/shirasagi_holo.png
+E_aoi 1 items refs=assets/ch/aoi_normal.png
+E_mari 1 items refs=assets/ch/mari_normal.png
+S2_kagami 1 items 
+S2_kenichi 1 items 
+B3_bureau 4 items 
+B4_misc 4 items 
+B5_homes 4 items 
+B6_oso 3 items 
+[E_yayoi] exit 0 in 107s
+  ok  ch_yayoi_smile -> assets\ch\yayoi_smile.png
+  ok  ch_yayoi_serious -> assets\ch\yayoi_serious.png
+[E_yayoi] 2/2 collected
+[E_akane_h] exit 0 in 118s
+  ok  ch_akane_home_sad -> assets\ch\akane_home_sad.png
+  ok  ch_akane_home_smile -> assets\ch\akane_home_smile.png
+[E_akane_h] 2/2 collected
+[E_ginoza] exit 0 in 174s
+  ok  ch_ginoza_smile -> assets\ch\ginoza_smile.png
+  ok  ch_ginoza_serious -> assets\ch\ginoza_serious.png
+  ok  ch_ginoza_surprised -> assets\ch\ginoza_surprised.png
+[E_ginoza] 3/3 collected
+[E_kasei] exit 0 in 58s
+  ok  ch_kasei_smile -> assets\ch\kasei_smile.png
+[E_kasei] 1/1 collected
+[E_hinakawa] exit 0 in 236s
+  ok  ch_hinakawa_surprised -> assets\ch\hinakawa_surprised.png
+  ok  ch_hinakawa_serious -> assets\ch\hinakawa_serious.png
+[E_hinakawa] 2/2 collected
+[E_aoi] exit 0 in 66s
+  ok  ch_aoi_glitch -> assets\ch\aoi_glitch.png
+[E_aoi] 1/1 collected
+[E_mari] exit 0 in 64s
+  ok  ch_mari_smile -> assets\ch\mari_smile.png
+[E_mari] 1/1 collected
+[E_shion] exit 0 in 287s
+  ok  ch_shion_smile -> assets\ch\shion_smile.png
+  ok  ch_shion_serious -> assets\ch\shion_serious.png
+[E_shion] 2/2 collected
+[E_shirasagi] exit 0 in 220s
+  ok  ch_shirasagi_holo_smile -> assets\ch\shirasagi_holo_smile.png
+  ok  ch_shirasagi_real -> assets\ch\shirasagi_real.png
+[E_shirasagi] 2/2 collected
+[S2_kagami] exit 0 in 70s
+  ok  ch_kagami_normal -> assets\ch\kagami_normal.png
+[S2_kagami] 1/1 collected
+[E_kiri] exit 0 in 276s
+  ok  ch_kiri_sad -> assets\ch\kiri_sad.png
+  ok  ch_kiri_surprised -> assets\ch\kiri_surprised.png
+  ok  ch_kiri_smile -> assets\ch\kiri_smile.png
+[E_kiri] 3/3 collected
+[S2_kenichi] exit 0 in 105s
+  ok  ch_kenichi_normal -> assets\ch\kenichi_normal.png
+[S2_kenichi] 1/1 collected
+[B3_bureau] exit 0 in 146s
+  ok  bg_corridor -> assets\bg\corridor.png
+  ok  bg_rest -> assets\bg\rest.png
+  ok  bg_chief -> assets\bg\chief.png
+  ok  bg_kennel -> assets\bg\kennel.png
+[B3_bureau] 4/4 collected
+[B5_homes] exit 0 in 153s
+  ok  bg_nozawa -> assets\bg\nozawa.png
+  ok  bg_saegusa -> assets\bg\saegusa.png
+  ok  bg_server -> assets\bg\server.png
+  ok  bg_grandma_engawa -> assets\bg\grandma_engawa.png
+[B5_homes] 4/4 collected
+[B4_misc] exit 0 in 185s
+  ok  bg_wagon -> assets\bg\wagon.png
+  ok  bg_rooftop -> assets\bg\rooftop.png
+  ok  bg_street_night -> assets\bg\street_night.png
+  ok  bg_cell -> assets\bg\cell.png
+[B4_misc] 4/4 collected
+[B6_oso] exit 0 in 138s
+  ok  bg_oso_corridor -> assets\bg\oso_corridor.png
+  ok  bg_oso_chapel -> assets\bg\oso_chapel.png
+  ok  bg_cemetery -> assets\bg\cemetery.png
+[B6_oso] 3/3 collected
+ALL DONE: E_akane_h E_ginoza E_yayoi E_hinakawa E_shion E_kasei E_kiri E_shirasagi E_aoi E_mari S2_kagami S2_kenichi B3_bureau B4_misc B5_homes B6_oso
+E_shira_real 1 items refs=assets/ch/shirasagi_real.png
+[E_shira_real] exit 0 in 179s
+  ok  ch_shirasagi_real_smile -> assets\ch\shirasagi_real_smile.png
+[E_shira_real] 1/1 collected
+ALL DONE: E_shira_real

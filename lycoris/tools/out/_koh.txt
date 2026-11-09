@@ -1,0 +1,10 @@
+[O_koharu_casual] exit 0 in 75s
+  ok  ch_koharu_casual -> assets\ch\koharu_casual.png
+[O_koharu_casual] 1/1 collected
+1 files: 1.6 MB -> 0.1 MB
+[E_koharu_casual] exit 0 in 215s
+  ok  ch_koharu_casual_smile -> assets\ch\koharu_casual_smile.png
+  ok  ch_koharu_casual_worried -> assets\ch\koharu_casual_worried.png
+  ok  ch_koharu_casual_surprised -> assets\ch\koharu_casual_surprised.png
+[E_koharu_casual] 3/3 collected
+4 files: 6.4 MB -> 0.5 MB

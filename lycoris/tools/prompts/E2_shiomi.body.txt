@@ -1,0 +1,3 @@
+1. id "ch_shiomi_serious": Expression: serious and businesslike, no smile, calm eyes. Everything else unchanged.
+2. id "ch_shiomi_cold": Expression: cold and empty: no smile at all, eyes flat and unreadable, looking down slightly. Everything else unchanged.
+3. id "ch_shiomi_sad": Expression: a tired, sad little smile, eyes lowered. Everything else unchanged.

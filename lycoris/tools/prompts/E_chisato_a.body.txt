@@ -1,0 +1,5 @@
+1. id "ch_chisato_smile": Expression: a big bright happy smile, eyes curved into happy arcs, mouth open. Everything else unchanged.
+2. id "ch_chisato_grin": Expression: a teasing, mischievous grin, one eye slightly narrowed, playful. Everything else unchanged.
+3. id "ch_chisato_surprised": Expression: surprised: eyes wide open, eyebrows raised, mouth a small open "o". Everything else unchanged.
+4. id "ch_chisato_serious": Expression: serious and focused: eyebrows drawn level, mouth set firmly, sharp steady gaze; arms now hanging naturally at her sides instead of behind her back. Everything else unchanged.
+5. id "ch_chisato_angry": Expression: angry: eyebrows pulled down hard, glaring, teeth slightly clenched; arms hanging at her sides, hands in fists. Everything else unchanged.

@@ -1,0 +1,3 @@
+1. id "bg_oso_corridor": Night inside the closed old building of an elite Catholic girls’ boarding school: a long corridor with tall arched windows, moonlight and faint snow outside, dust, closed classroom doors, an elegant but abandoned feeling, deep shadows.
+2. id "bg_oso_chapel": Night inside the old chapel of an elite Catholic girls’ school: rows of wooden pews, a long table in front of the altar, tall stained-glass windows dim in the moonlight, rows of candles (holographic, glowing softly) on the table, dust in the air.
+3. id "bg_cemetery": A quiet Japanese family cemetery attached to a small temple in winter at dusk: rows of gray stone graves, a little snow on the ground and on the stones, bare trees, a pale orange sky fading to blue.

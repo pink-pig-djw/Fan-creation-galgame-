@@ -1,0 +1,23 @@
+X_cry 1 items refs=assets/ch/akane_normal.png,assets/_cg_old/cry.png
+X_pass 1 items refs=assets/ch/akane_normal.png,assets/ch/mika_normal.png
+X_zero 1 items refs=assets/ch/akane_normal.png,assets/ch/shirasagi_real.png,assets/_cg_old/zero.png
+X_title 1 items refs=assets/ch/akane_normal.png,assets/ch/aoi_normal.png
+X_title_true 1 items refs=assets/ch/akane_normal.png,assets/_cg_old/title_true.png
+[X_zero] exit 0 in 86s
+  ok  cg_zero -> assets\cg\zero.png
+[X_zero] 1/1 collected
+[X_cry] exit 0 in 130s
+  ok  cg_cry -> assets\cg\cry.png
+[X_cry] 1/1 collected
+[X_pass] exit 0 in 140s
+  ok  cg_pass -> assets\cg\pass.png
+[X_pass] 1/1 collected
+[X_title] exit 0 in 144s
+  ok  cg_title -> assets\cg\title.png
+[X_title] 1/1 collected
+[X_title_true] exit 0 in 91s
+  ok  cg_title_true -> assets\cg\title_true.png
+[X_title_true] 1/1 collected
+ALL DONE: X_cry X_pass X_zero X_title X_title_true
+tools/out/X_cry.log
+!! QUOTA HIT in the logs above

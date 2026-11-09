@@ -1,0 +1,5 @@
+[G2_kusunoki] exit 0 in 266s
+  ok  cg_c2_cakes -> assets\cg\c2_cakes.png
+  ok  cg_c6_standoff -> assets\cg\c6_standoff.png
+[G2_kusunoki] 2/2 collected
+2 files: 4.2 MB -> 0.4 MB

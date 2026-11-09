@@ -1,0 +1,4 @@
+1. id "ch_takina_pj_smile": Expression: a small, soft, gentle smile, eyes calm and warm. Everything else unchanged.
+2. id "ch_takina_pj_sad": Expression: sad: eyebrows tilted up in the middle, eyes lowered, mouth a small downturned line. Everything else unchanged.
+3. id "ch_takina_pj_blush": Expression: flustered and embarrassed: cheeks clearly blushing pink, eyes looking away to the side, mouth a small wavy line. Everything else unchanged.
+4. id "ch_takina_pj_worried": Expression: worried: eyebrows knitted and tilted up, eyes uneasy, lips pressed together. Everything else unchanged.

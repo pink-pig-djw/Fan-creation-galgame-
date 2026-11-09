@@ -1,0 +1,5 @@
+1. id "ch_mizuki_smile": Expression: a cheerful, smug grin. Everything else unchanged.
+2. id "ch_mizuki_angry": Expression: yelling angrily, mouth wide open, eyebrows sharply down, a comic anger vein. Everything else unchanged.
+3. id "ch_mizuki_cry": Expression: sobbing comically, tears streaming, mouth wide open. Everything else unchanged.
+4. id "ch_mizuki_serious": Expression: serious and sharp, the tired look gone, eyes focused behind the glasses. Everything else unchanged.
+5. id "ch_mizuki_surprised": Expression: surprised: eyes wide open, eyebrows raised, mouth a small open "o". Everything else unchanged.

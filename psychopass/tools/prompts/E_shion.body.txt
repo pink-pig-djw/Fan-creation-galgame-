@@ -1,0 +1,2 @@
+1. id "ch_shion_smile": laughing playfully with a wink.
+2. id "ch_shion_serious": serious and professional: no smile, eyes sharp.

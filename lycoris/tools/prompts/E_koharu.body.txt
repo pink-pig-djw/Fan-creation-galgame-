@@ -1,0 +1,4 @@
+1. id "ch_koharu_smile": Expression: laughing happily, eyes closed in joy. Everything else unchanged.
+2. id "ch_koharu_sad": Expression: sad: eyebrows tilted up in the middle, eyes lowered, mouth a small downturned line. Everything else unchanged.
+3. id "ch_koharu_surprised": Expression: surprised: eyes wide open, eyebrows raised, mouth a small open "o". Everything else unchanged.
+4. id "ch_koharu_worried": Expression: worried: eyebrows knitted and tilted up, eyes uneasy, lips pressed together. Everything else unchanged.

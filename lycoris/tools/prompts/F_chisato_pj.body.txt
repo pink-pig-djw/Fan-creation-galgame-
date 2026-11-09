@@ -1,0 +1,4 @@
+1. id "ch_chisato_pj_smile": Expression: a big bright happy smile, eyes curved into happy arcs, mouth open. Everything else unchanged.
+2. id "ch_chisato_pj_sad": Expression: sad: eyebrows tilted up in the middle, eyes lowered, mouth a small downturned line. Everything else unchanged.
+3. id "ch_chisato_pj_cry": Expression: crying: tears running down both cheeks, eyebrows tilted up, lips trembling. She hugs the pillow tighter. Everything else unchanged.
+4. id "ch_chisato_pj_serious": Expression: serious and focused: eyebrows drawn level, mouth set firmly, sharp steady gaze. Everything else unchanged.

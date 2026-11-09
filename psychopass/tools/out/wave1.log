@@ -1,0 +1,63 @@
+S1_akane 1 items 
+S1_mika 1 items 
+S1_ginoza 1 items 
+S1_hinakawa 1 items 
+S1_yayoi 1 items 
+S1_shion 1 items 
+S1_kasei 1 items 
+S1_kiri 1 items 
+S1_shirasagi 1 items 
+S1_aoi 1 items 
+S1_mari 1 items 
+S1_candy 1 items 
+B1_bureau 4 items 
+B2_rooms 4 items 
+[S1_akane] exit 0 in 82s
+  ok  ch_akane_normal -> assets\ch\akane_normal.png
+[S1_akane] 1/1 collected
+[S1_mika] exit 0 in 130s
+  ok  ch_mika_normal -> assets\ch\mika_normal.png
+[S1_mika] 1/1 collected
+[S1_hinakawa] exit 0 in 138s
+  ok  ch_hinakawa_normal -> assets\ch\hinakawa_normal.png
+[S1_hinakawa] 1/1 collected
+[S1_yayoi] exit 0 in 69s
+  ok  ch_yayoi_normal -> assets\ch\yayoi_normal.png
+[S1_yayoi] 1/1 collected
+[S1_ginoza] exit 0 in 157s
+  ok  ch_ginoza_normal -> assets\ch\ginoza_normal.png
+[S1_ginoza] 1/1 collected
+[S1_kiri] exit 0 in 69s
+  ok  ch_kiri_normal -> assets\ch\kiri_normal.png
+[S1_kiri] 1/1 collected
+[S1_shirasagi] exit 0 in 69s
+  ok  ch_shirasagi_holo -> assets\ch\shirasagi_holo.png
+[S1_shirasagi] 1/1 collected
+[B1_bureau] exit 0 in 246s
+  ok  bg_office -> assets\bg\office.png
+  ok  bg_lab -> assets\bg\lab.png
+  ok  bg_lobby -> assets\bg\lobby.png
+  ok  bg_grandma_house -> assets\bg\grandma_house.png
+[B1_bureau] 4/4 collected
+[B2_rooms] exit 0 in 251s
+  ok  bg_akane_room -> assets\bg\akane_room.png
+  ok  bg_akane_room_off -> assets\bg\akane_room_off.png
+  ok  bg_scene -> assets\bg\scene.png
+  ok  bg_scene_off -> assets\bg\scene_off.png
+[B2_rooms] 4/4 collected
+[S1_kasei] exit 0 in 127s
+  ok  ch_kasei_normal -> assets\ch\kasei_normal.png
+[S1_kasei] 1/1 collected
+[S1_aoi] exit 0 in 63s
+  ok  ch_aoi_normal -> assets\ch\aoi_normal.png
+[S1_aoi] 1/1 collected
+[S1_shion] exit 0 in 195s
+  ok  ch_shion_normal -> assets\ch\shion_normal.png
+[S1_shion] 1/1 collected
+[S1_candy] exit 0 in 119s
+  ok  ch_candy_normal -> assets\ch\candy_normal.png
+[S1_candy] 1/1 collected
+[S1_mari] exit 0 in 167s
+  ok  ch_mari_normal -> assets\ch\mari_normal.png
+[S1_mari] 1/1 collected
+ALL DONE: S1_akane S1_mika B1_bureau B2_rooms S1_ginoza S1_hinakawa S1_yayoi S1_shion S1_kasei S1_kiri S1_shirasagi S1_aoi S1_mari S1_candy

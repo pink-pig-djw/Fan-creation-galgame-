@@ -1,0 +1,4 @@
+1. id "ch_akane_angry": firm and angry in a controlled way: a hard, steady glare, eyebrows lowered, jaw set, mouth a straight line.
+2. id "ch_akane_hurt": just after being slapped: her left cheek is visibly reddened, a stunned blank expression, eyes slightly wide and glistening but no tears falling, lips parted a little. Head position unchanged.
+3. id "ch_akane_closed": eyes closed, a calm, inward, slightly pained expression, as if holding something in.
+4. id "ch_akane_home": OUTFIT CHANGE to her clothes at home at night: an oversized soft cream-colored knit sweater (sleeves a little long) and loose dark-gray lounge pants, no blazer, no wristband; same pose, same face and expression, same hair.

@@ -1,0 +1,5 @@
+1. id "ch_takina_blush": Expression: flustered and embarrassed: cheeks clearly blushing pink, eyes looking away to the side, mouth a small wavy line. Everything else unchanged.
+2. id "ch_takina_pout": Expression: pouting and sulky: cheeks a little puffed, lips pushed out, looking aside. Everything else unchanged.
+3. id "ch_takina_cry": Expression: crying: tears running down both cheeks, eyebrows tilted up, lips trembling. Everything else unchanged.
+4. id "ch_takina_worried": Expression: worried: eyebrows knitted and tilted up, eyes uneasy, lips pressed together. Everything else unchanged.
+5. id "ch_takina_grin": Expression: a rare, small confident smirk, one corner of the mouth up, eyes sharp. Everything else unchanged.

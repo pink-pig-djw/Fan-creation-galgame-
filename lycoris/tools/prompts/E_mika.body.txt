@@ -1,0 +1,4 @@
+1. id "ch_mika_smile": Expression: a warm, broad fatherly smile. Everything else unchanged.
+2. id "ch_mika_serious": Expression: stern and serious, no smile, eyes steady behind the glasses. Everything else unchanged.
+3. id "ch_mika_sad": Expression: quietly sad, eyes lowered behind the glasses, mouth closed. Everything else unchanged.
+4. id "ch_mika_surprised": Expression: surprised, eyebrows raised above the glasses. Everything else unchanged.

@@ -1,0 +1,7 @@
+TRUE     112s  ENDING 四十九日 vars={"mika":42,"keep":1} | TITLE after 110s | missing sprites:   errors: 0
+NORMAL   106s  ENDING 无色 vars={"mika":51,"keep":0} | TITLE after 106s | missing sprites:   errors: 0
+ROOM     44s  ENDING 里屋 vars={"mika":38,"keep":1} | TITLE after 42s | missing sprites:   errors: 0
+TARGET   76s  ENDING 对象外 vars={"mika":52,"keep":1} | TITLE after 74s | missing sprites:   errors: 0
+TARGET2  76s  ENDING 对象外 vars={"mika":52,"keep":1} | TITLE after 74s | missing sprites:   errors: 0
+HOME     86s  ENDING 回家 vars={"mika":64,"keep":1} | TITLE after 85s | missing sprites:   errors: 0
+TURBID   92s  ENDING 浊色 vars={"mika":137,"keep":1} | TITLE after 92s | missing sprites:   errors: 0

@@ -1,0 +1,4 @@
+1. id "bg_wagon": Interior of a Public Safety Bureau paddy wagon (armored transport van): metal benches along both sides, a weapons rack with sleek futuristic guns in charging cradles glowing teal, no windows, dim overhead light.
+2. id "bg_rooftop": The rooftop of the Public Safety Bureau tower at night: a wide flat roof with a safety railing, a helipad marking (no letters), air vents, the dense night skyline of near-future Tokyo all around, a cold overcast sky.
+3. id "bg_street_night": A night street in near-future Tokyo: clean pavement, holographic advertisements glowing on building walls (abstract shapes only), a small spherical street scanner on a pole, empty of people, cold blue tones with a few neon accents.
+4. id "bg_cell": A visiting room in a latent-criminal isolation facility: everything white and sterile, a thick glass partition dividing the room, a simple chair on this side, a white room with a bed visible beyond the glass, cold flat light.

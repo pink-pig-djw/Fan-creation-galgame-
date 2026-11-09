@@ -1,0 +1,78 @@
+F_chisato_cafe_a 4 items refs=assets/ch/chisato_cafe.png
+F_chisato_cafe_b 3 items refs=assets/ch/chisato_cafe.png
+F_chisato_casual_a 3 items refs=assets/ch/chisato_casual.png
+F_chisato_casual_b 3 items refs=assets/ch/chisato_casual.png
+F_chisato_pj 4 items refs=assets/ch/chisato_pj.png
+F_chisato_hurt 1 items refs=assets/ch/chisato_hurt.png
+F_takina_cafe_a 3 items refs=assets/ch/takina_cafe.png
+F_takina_cafe_b 3 items refs=assets/ch/takina_cafe.png
+F_takina_casual_a 3 items refs=assets/ch/takina_casual.png
+F_takina_casual_b 2 items refs=assets/ch/takina_casual.png
+F_takina_casual_hurt 2 items refs=assets/ch/takina_casual.png
+F_takina_pj 4 items refs=assets/ch/takina_pj.png
+F_takina_captive 3 items refs=assets/ch/takina_captive.png
+[F_chisato_casual_a] exit 0 in 394s
+  ok  ch_chisato_casual_smile -> assets\ch\chisato_casual_smile.png
+  ok  ch_chisato_casual_surprised -> assets\ch\chisato_casual_surprised.png
+  ok  ch_chisato_casual_blush -> assets\ch\chisato_casual_blush.png
+[F_chisato_casual_a] 3/3 collected
+[F_chisato_cafe_b] exit 0 in 422s
+  ok  ch_chisato_cafe_sad -> assets\ch\chisato_cafe_sad.png
+  ok  ch_chisato_cafe_serious -> assets\ch\chisato_cafe_serious.png
+  ok  ch_chisato_cafe_worried -> assets\ch\chisato_cafe_worried.png
+[F_chisato_cafe_b] 3/3 collected
+[F_chisato_hurt] exit 0 in 443s
+  ok  ch_chisato_hurt_angry -> assets\ch\chisato_hurt_angry.png
+[F_chisato_hurt] 1/1 collected
+[F_chisato_casual_b] exit 0 in 550s
+  ok  ch_chisato_casual_sad -> assets\ch\chisato_casual_sad.png
+  ok  ch_chisato_casual_serious -> assets\ch\chisato_casual_serious.png
+  ok  ch_chisato_casual_cry -> assets\ch\chisato_casual_cry.png
+[F_chisato_casual_b] 3/3 collected
+[F_chisato_cafe_a] exit 0 in 593s
+  ok  ch_chisato_cafe_normal -> assets\ch\chisato_cafe_normal.png
+  ok  ch_chisato_cafe_grin -> assets\ch\chisato_cafe_grin.png
+  ok  ch_chisato_cafe_surprised -> assets\ch\chisato_cafe_surprised.png
+  ok  ch_chisato_cafe_pout -> assets\ch\chisato_cafe_pout.png
+[F_chisato_cafe_a] 4/4 collected
+[F_chisato_pj] exit 0 in 673s
+  ok  ch_chisato_pj_smile -> assets\ch\chisato_pj_smile.png
+  ok  ch_chisato_pj_sad -> assets\ch\chisato_pj_sad.png
+  ok  ch_chisato_pj_cry -> assets\ch\chisato_pj_cry.png
+  ok  ch_chisato_pj_serious -> assets\ch\chisato_pj_serious.png
+[F_chisato_pj] 4/4 collected
+[F_takina_casual_a] exit 0 in 581s
+  ok  ch_takina_casual_smile -> assets\ch\takina_casual_smile.png
+  ok  ch_takina_casual_blush -> assets\ch\takina_casual_blush.png
+  ok  ch_takina_casual_sad -> assets\ch\takina_casual_sad.png
+[F_takina_casual_a] 3/3 collected
+[F_takina_cafe_a] exit 0 in 635s
+  ok  ch_takina_cafe_smile -> assets\ch\takina_cafe_smile.png
+  ok  ch_takina_cafe_blush -> assets\ch\takina_cafe_blush.png
+  ok  ch_takina_cafe_surprised -> assets\ch\takina_cafe_surprised.png
+[F_takina_cafe_a] 3/3 collected
+[F_takina_casual_hurt] exit 0 in 443s
+  ok  ch_takina_casual_hurt -> assets\ch\takina_casual_hurt.png
+  ok  ch_takina_casual_hurt_smile -> assets\ch\takina_casual_hurt_smile.png
+[F_takina_casual_hurt] 2/2 collected
+[F_takina_cafe_b] exit 0 in 663s
+  ok  ch_takina_cafe_serious -> assets\ch\takina_cafe_serious.png
+  ok  ch_takina_cafe_pout -> assets\ch\takina_cafe_pout.png
+  ok  ch_takina_cafe_sad -> assets\ch\takina_cafe_sad.png
+[F_takina_cafe_b] 3/3 collected
+[F_takina_casual_b] exit 0 in 586s
+  ok  ch_takina_casual_surprised -> assets\ch\takina_casual_surprised.png
+  ok  ch_takina_casual_serious -> assets\ch\takina_casual_serious.png
+[F_takina_casual_b] 2/2 collected
+[F_takina_pj] exit 0 in 577s
+  ok  ch_takina_pj_smile -> assets\ch\takina_pj_smile.png
+  ok  ch_takina_pj_sad -> assets\ch\takina_pj_sad.png
+  ok  ch_takina_pj_blush -> assets\ch\takina_pj_blush.png
+  ok  ch_takina_pj_worried -> assets\ch\takina_pj_worried.png
+[F_takina_pj] 4/4 collected
+[F_takina_captive] exit 0 in 255s
+  ok  ch_takina_captive_weak -> assets\ch\takina_captive_weak.png
+  ok  ch_takina_captive_smile -> assets\ch\takina_captive_smile.png
+  ok  ch_takina_captive_cry -> assets\ch\takina_captive_cry.png
+[F_takina_captive] 3/3 collected
+ALL DONE: F_chisato_cafe_a F_chisato_cafe_b F_chisato_casual_a F_chisato_casual_b F_chisato_pj F_chisato_hurt F_takina_cafe_a F_takina_cafe_b F_takina_casual_a F_takina_casual_b F_takina_casual_hurt F_takina_pj F_takina_captive

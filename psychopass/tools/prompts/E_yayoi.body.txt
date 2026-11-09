@@ -1,0 +1,2 @@
+1. id "ch_yayoi_smile": a very faint, cool smile.
+2. id "ch_yayoi_serious": alert and serious: sharp eyes, slight frown.

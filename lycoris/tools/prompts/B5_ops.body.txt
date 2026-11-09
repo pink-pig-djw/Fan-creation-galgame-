@@ -1,0 +1,5 @@
+1. id "bg_hideout": An abandoned office floor in an old building at NIGHT: dusty desks pushed aside, broken window blinds, scattered papers, exposed ceiling panels, moonlight cutting in through the windows in long pale stripes, deep shadows.
+2. id "bg_warehouse": Inside a big waterfront warehouse at night: stacked wooden crates and shipping containers, metal catwalks, a few hanging work lamps throwing cones of yellow light, concrete floor, the large rolling door half open to the dark harbor.
+3. id "bg_amusement": An abandoned amusement park at NIGHT: a rusted Ferris wheel against a dark blue sky, a faded carousel with peeling paint, weeds through cracked pavement, broken colored bulbs, a single working floodlight.
+4. id "bg_car_night": The back seat of a car at NIGHT, seen from inside: dark seats, rain-streaked side window with blurred city lights outside, dim dashboard glow in front.
+5. id "bg_da_hq": A secret government agency command room: a dim, wide room with a large curved wall of screens showing abstract maps and data shapes (no text), rows of consoles, a raised platform, cold blue and white light.

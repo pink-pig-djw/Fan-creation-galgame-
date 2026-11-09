@@ -1,0 +1,4 @@
+1. id "ch_akane_smile": a small, soft, slightly tired smile, eyes gentle.
+2. id "ch_akane_serious": serious and resolute: eyebrows set, eyes sharp and focused, lips pressed together (the face she makes when she decides something).
+3. id "ch_akane_surprised": startled and afraid: eyes wide open with small pupils, lips slightly parted, face a little pale.
+4. id "ch_akane_sad": quietly sad: eyes lowered and a little unfocused, eyebrows drawn together slightly, mouth closed; she is not crying.

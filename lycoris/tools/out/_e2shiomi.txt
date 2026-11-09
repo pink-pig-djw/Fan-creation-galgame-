@@ -1,0 +1,5 @@
+[E2_shiomi] exit 0 in 290s
+  ok  ch_shiomi_serious -> assets\ch\shiomi_serious.png
+  ok  ch_shiomi_cold -> assets\ch\shiomi_cold.png
+  ok  ch_shiomi_sad -> assets\ch\shiomi_sad.png
+[E2_shiomi] 3/3 collected

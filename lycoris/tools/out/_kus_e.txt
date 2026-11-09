@@ -1,0 +1,6 @@
+[E3_kusunoki] exit 0 in 195s
+  ok  ch_kusunoki_serious -> assets\ch\kusunoki_serious.png
+  ok  ch_kusunoki_angry -> assets\ch\kusunoki_angry.png
+  ok  ch_kusunoki_surprised -> assets\ch\kusunoki_surprised.png
+[E3_kusunoki] 3/3 collected
+3 files: 4.0 MB -> 0.3 MB

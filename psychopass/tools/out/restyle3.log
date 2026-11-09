@@ -1,0 +1,9 @@
+R_lab 1 items refs=assets/_bg_detailed/lab.png
+R_akane_room 1 items refs=assets/_bg_detailed/akane_room.png
+[R_akane_room] exit 0 in 95s
+  ok  bg_akane_room -> assets\bg\akane_room.png
+[R_akane_room] 1/1 collected
+[R_lab] exit 0 in 97s
+  ok  bg_lab -> assets\bg\lab.png
+[R_lab] 1/1 collected
+ALL DONE: R_lab R_akane_room

@@ -1,0 +1,5 @@
+1. id "ch_kurumi_smile": Expression: a smug, satisfied little grin, eyes half-closed. Everything else unchanged.
+2. id "ch_kurumi_serious": Expression: serious and focused, eyes fully open and sharp. Everything else unchanged.
+3. id "ch_kurumi_scared": Expression: scared: eyes wide, small mouth trembling, clutching the tablet tighter. Everything else unchanged.
+4. id "ch_kurumi_sad": Expression: sad: eyebrows tilted up in the middle, eyes lowered, mouth a small downturned line. Everything else unchanged.
+5. id "ch_kurumi_surprised": Expression: surprised: eyes wide open, eyebrows raised, mouth a small open "o". Everything else unchanged.

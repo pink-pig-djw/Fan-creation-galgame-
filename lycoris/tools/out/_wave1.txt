@@ -1,0 +1,57 @@
+S1_chisato 1 items 
+S1_takina 1 items 
+S1_mika 1 items 
+S1_mizuki 1 items 
+S1_kurumi 1 items 
+S1_kusunoki 1 items 
+S1_fuki 1 items 
+S1_sakura 1 items 
+S1_shiomi 1 items 
+S1_koharu 1 items 
+S1_akari 1 items 
+S1_karasuma 1 items 
+S1_yamagishi 1 items 
+S1_numata 1 items 
+[S1_takina] exit 0 in 70s
+  ok  ch_takina_normal -> assets\ch\takina_normal.png
+[S1_takina] 1/1 collected
+[S1_fuki] exit 0 in 80s
+  ok  ch_fuki_normal -> assets\ch\fuki_normal.png
+[S1_fuki] 1/1 collected
+[S1_mizuki] exit 0 in 87s
+  ok  ch_mizuki_normal -> assets\ch\mizuki_normal.png
+[S1_mizuki] 1/1 collected
+[S1_chisato] exit 0 in 94s
+  ok  ch_chisato_normal -> assets\ch\chisato_normal.png
+[S1_chisato] 1/1 collected
+[S1_kusunoki] exit 0 in 130s
+  ok  ch_kusunoki_normal -> assets\ch\kusunoki_normal.png
+[S1_kusunoki] 1/1 collected
+[S1_mika] exit 0 in 134s
+  ok  ch_mika_normal -> assets\ch\mika_normal.png
+[S1_mika] 1/1 collected
+[S1_akari] exit 0 in 55s
+  ok  ch_akari_normal -> assets\ch\akari_normal.png
+[S1_akari] 1/1 collected
+[S1_shiomi] exit 0 in 71s
+  ok  ch_shiomi_normal -> assets\ch\shiomi_normal.png
+[S1_shiomi] 1/1 collected
+[S1_koharu] exit 0 in 73s
+  ok  ch_koharu_normal -> assets\ch\koharu_normal.png
+[S1_koharu] 1/1 collected
+[S1_kurumi] exit 0 in 169s
+  ok  ch_kurumi_normal -> assets\ch\kurumi_normal.png
+[S1_kurumi] 1/1 collected
+[S1_karasuma] exit 0 in 62s
+  ok  ch_karasuma_normal -> assets\ch\karasuma_normal.png
+[S1_karasuma] 1/1 collected
+[S1_yamagishi] exit 0 in 126s
+  ok  ch_yamagishi_normal -> assets\ch\yamagishi_normal.png
+[S1_yamagishi] 1/1 collected
+[S1_numata] exit 0 in 118s
+  ok  ch_numata_normal -> assets\ch\numata_normal.png
+[S1_numata] 1/1 collected
+[S1_sakura] exit 0 in 249s
+  ok  ch_sakura_normal -> assets\ch\sakura_normal.png
+[S1_sakura] 1/1 collected
+ALL DONE: S1_chisato S1_takina S1_mika S1_mizuki S1_kurumi S1_kusunoki S1_fuki S1_sakura S1_shiomi S1_koharu S1_akari S1_karasuma S1_yamagishi S1_numata

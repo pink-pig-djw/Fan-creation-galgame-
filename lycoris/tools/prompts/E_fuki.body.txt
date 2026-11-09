@@ -1,0 +1,5 @@
+1. id "ch_fuki_angry": Expression: shouting angrily, mouth open, eyebrows sharply down. Everything else unchanged.
+2. id "ch_fuki_serious": Expression: serious and focused, arms still crossed. Everything else unchanged.
+3. id "ch_fuki_surprised": Expression: surprised: eyes wide open, eyebrows raised, mouth a small open "o". Everything else unchanged.
+4. id "ch_fuki_smile": Expression: a rare, small, reluctant smile, looking slightly aside. Everything else unchanged.
+5. id "ch_fuki_sad": Expression: conflicted and pained: eyebrows knitted, eyes lowered, lips pressed tight. Everything else unchanged.

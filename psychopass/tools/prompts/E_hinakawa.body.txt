@@ -1,0 +1,2 @@
+1. id "ch_hinakawa_surprised": startled and flustered: visible eye wide, a sweat drop, mouth open, a little blush.
+2. id "ch_hinakawa_serious": focused: looking straight ahead with a serious, concentrated expression (the face he makes when he talks about holograms).

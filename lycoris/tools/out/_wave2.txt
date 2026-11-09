@@ -1,0 +1,136 @@
+O_chisato_cafe 1 items refs=assets/ch/chisato_normal.png
+O_chisato_casual 1 items refs=assets/ch/chisato_normal.png
+O_chisato_pj 1 items refs=assets/ch/chisato_normal.png
+E_chisato_a 5 items refs=assets/ch/chisato_normal.png
+E_chisato_b 5 items refs=assets/ch/chisato_normal.png
+O_takina_cafe 1 items refs=assets/ch/takina_normal.png
+O_takina_casual 1 items refs=assets/ch/takina_normal.png
+O_takina_pj 1 items refs=assets/ch/takina_normal.png
+O_takina_captive 1 items refs=assets/ch/takina_normal.png
+E_takina_a 5 items refs=assets/ch/takina_normal.png
+E_takina_b 5 items refs=assets/ch/takina_normal.png
+E_mika 4 items refs=assets/ch/mika_normal.png
+E_mizuki 5 items refs=assets/ch/mizuki_normal.png
+E_kurumi 5 items refs=assets/ch/kurumi_normal.png
+E_kusunoki 3 items refs=assets/ch/kusunoki_normal.png
+E_fuki 5 items refs=assets/ch/fuki_normal.png
+E_sakura 4 items refs=assets/ch/sakura_normal.png
+E_shiomi 5 items refs=assets/ch/shiomi_normal.png
+E_koharu 4 items refs=assets/ch/koharu_normal.png
+E_akari 3 items refs=assets/ch/akari_normal.png
+E_karasuma 3 items refs=assets/ch/karasuma_normal.png
+E_yamagishi 1 items refs=assets/ch/yamagishi_normal.png
+[O_takina_pj] exit 0 in 77s
+  ok  ch_takina_pj -> assets\ch\takina_pj.png
+[O_takina_pj] 1/1 collected
+[O_takina_cafe] exit 0 in 79s
+  ok  ch_takina_cafe -> assets\ch\takina_cafe.png
+[O_takina_cafe] 1/1 collected
+[O_takina_casual] exit 0 in 89s
+  ok  ch_takina_casual -> assets\ch\takina_casual.png
+[O_takina_casual] 1/1 collected
+[O_chisato_pj] exit 0 in 99s
+  ok  ch_chisato_pj -> assets\ch\chisato_pj.png
+[O_chisato_pj] 1/1 collected
+[O_chisato_cafe] exit 0 in 127s
+  ok  ch_chisato_cafe -> assets\ch\chisato_cafe.png
+[O_chisato_cafe] 1/1 collected
+[O_takina_captive] exit 0 in 85s
+  ok  ch_takina_captive -> assets\ch\takina_captive.png
+[O_takina_captive] 1/1 collected
+[O_chisato_casual] exit 0 in 224s
+  ok  ch_chisato_casual -> assets\ch\chisato_casual.png
+[O_chisato_casual] 1/1 collected
+[E_chisato_b] exit 0 in 269s
+  ok  ch_chisato_sad -> assets\ch\chisato_sad.png
+  ok  ch_chisato_cry -> assets\ch\chisato_cry.png
+  ok  ch_chisato_pout -> assets\ch\chisato_pout.png
+  ok  ch_chisato_worried -> assets\ch\chisato_worried.png
+  ok  ch_chisato_hurt -> assets\ch\chisato_hurt.png
+[E_chisato_b] 5/5 collected
+[E_takina_a] exit 0 in 265s
+  ok  ch_takina_smile -> assets\ch\takina_smile.png
+  ok  ch_takina_surprised -> assets\ch\takina_surprised.png
+  ok  ch_takina_serious -> assets\ch\takina_serious.png
+  ok  ch_takina_angry -> assets\ch\takina_angry.png
+  ok  ch_takina_sad -> assets\ch\takina_sad.png
+[E_takina_a] 5/5 collected
+[E_chisato_a] exit 0 in 316s
+  ok  ch_chisato_smile -> assets\ch\chisato_smile.png
+  ok  ch_chisato_grin -> assets\ch\chisato_grin.png
+  ok  ch_chisato_surprised -> assets\ch\chisato_surprised.png
+  ok  ch_chisato_serious -> assets\ch\chisato_serious.png
+  ok  ch_chisato_angry -> assets\ch\chisato_angry.png
+[E_chisato_a] 5/5 collected
+[E_shiomi] exit 0 in 277s
+  ok  ch_shiomi_serious -> assets\ch\shiomi_serious.png
+  ok  ch_shiomi_cold -> assets\ch\shiomi_cold.png
+  ok  ch_shiomi_sad -> assets\ch\shiomi_sad.png
+  ok  ch_shiomi_smoke -> assets\ch\shiomi_smoke.png
+  ok  ch_shiomi_hurt -> assets\ch\shiomi_hurt.png
+[E_shiomi] 5/5 collected
+[E_takina_b] exit 0 in 330s
+  ok  ch_takina_blush -> assets\ch\takina_blush.png
+  ok  ch_takina_pout -> assets\ch\takina_pout.png
+  ok  ch_takina_cry -> assets\ch\takina_cry.png
+  ok  ch_takina_worried -> assets\ch\takina_worried.png
+  ok  ch_takina_grin -> assets\ch\takina_grin.png
+[E_takina_b] 5/5 collected
+[E_mizuki] exit 0 in 332s
+  ok  ch_mizuki_smile -> assets\ch\mizuki_smile.png
+  ok  ch_mizuki_angry -> assets\ch\mizuki_angry.png
+  ok  ch_mizuki_cry -> assets\ch\mizuki_cry.png
+  ok  ch_mizuki_serious -> assets\ch\mizuki_serious.png
+  ok  ch_mizuki_surprised -> assets\ch\mizuki_surprised.png
+[E_mizuki] 5/5 collected
+[E_fuki] exit 0 in 308s
+  ok  ch_fuki_angry -> assets\ch\fuki_angry.png
+  ok  ch_fuki_serious -> assets\ch\fuki_serious.png
+  ok  ch_fuki_surprised -> assets\ch\fuki_surprised.png
+  ok  ch_fuki_smile -> assets\ch\fuki_smile.png
+  ok  ch_fuki_sad -> assets\ch\fuki_sad.png
+[E_fuki] 5/5 collected
+[E_sakura] exit 0 in 288s
+  ok  ch_sakura_angry -> assets\ch\sakura_angry.png
+  ok  ch_sakura_surprised -> assets\ch\sakura_surprised.png
+  ok  ch_sakura_scared -> assets\ch\sakura_scared.png
+  ok  ch_sakura_sulk -> assets\ch\sakura_sulk.png
+[E_sakura] 4/4 collected
+[E_kurumi] exit 0 in 367s
+  ok  ch_kurumi_smile -> assets\ch\kurumi_smile.png
+  ok  ch_kurumi_serious -> assets\ch\kurumi_serious.png
+  ok  ch_kurumi_scared -> assets\ch\kurumi_scared.png
+  ok  ch_kurumi_sad -> assets\ch\kurumi_sad.png
+  ok  ch_kurumi_surprised -> assets\ch\kurumi_surprised.png
+[E_kurumi] 5/5 collected
+[E_mika] exit 0 in 290s
+  ok  ch_mika_smile -> assets\ch\mika_smile.png
+  ok  ch_mika_serious -> assets\ch\mika_serious.png
+  ok  ch_mika_sad -> assets\ch\mika_sad.png
+  ok  ch_mika_surprised -> assets\ch\mika_surprised.png
+[E_mika] 4/4 collected
+[E_yamagishi] exit 0 in 91s
+  ok  ch_yamagishi_serious -> assets\ch\yamagishi_serious.png
+[E_yamagishi] 1/1 collected
+[E_kusunoki] exit 0 in 285s
+  ok  ch_kusunoki_serious -> assets\ch\kusunoki_serious.png
+  ok  ch_kusunoki_angry -> assets\ch\kusunoki_angry.png
+  ok  ch_kusunoki_surprised -> assets\ch\kusunoki_surprised.png
+[E_kusunoki] 3/3 collected
+[E_akari] exit 0 in 235s
+  ok  ch_akari_scared -> assets\ch\akari_scared.png
+  ok  ch_akari_angry -> assets\ch\akari_angry.png
+  ok  ch_akari_sad -> assets\ch\akari_sad.png
+[E_akari] 3/3 collected
+[E_karasuma] exit 0 in 227s
+  ok  ch_karasuma_angry -> assets\ch\karasuma_angry.png
+  ok  ch_karasuma_scared -> assets\ch\karasuma_scared.png
+  ok  ch_karasuma_laugh -> assets\ch\karasuma_laugh.png
+[E_karasuma] 3/3 collected
+[E_koharu] exit 0 in 489s
+  ok  ch_koharu_smile -> assets\ch\koharu_smile.png
+  ok  ch_koharu_sad -> assets\ch\koharu_sad.png
+  ok  ch_koharu_surprised -> assets\ch\koharu_surprised.png
+  ok  ch_koharu_worried -> assets\ch\koharu_worried.png
+[E_koharu] 4/4 collected
+ALL DONE: O_chisato_cafe O_chisato_casual O_chisato_pj O_takina_cafe O_takina_casual O_takina_pj O_takina_captive E_chisato_a E_chisato_b E_takina_a E_takina_b E_shiomi E_mizuki E_kurumi E_fuki E_sakura E_mika E_koharu E_kusunoki E_akari E_karasuma E_yamagishi

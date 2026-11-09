@@ -1,0 +1,4 @@
+1. id "bg_corridor": A long corridor inside the Public Safety Bureau tower: clean gray walls and floor, cool ceiling light strips, an elevator hall with steel doors at one side, a tall window at the end showing the night city.
+2. id "bg_rest": A small rest area inside the Public Safety Bureau late at night: a glowing vending machine, a few simple benches, a window wall with the night city, most lights off, the vending machine is the main light source.
+3. id "bg_chief": The office of the Bureau Chief at the top of the Public Safety Bureau tower: a large, sparse, cold room, a single long dark desk, a huge window wall with the city far below, very little decoration, faint blue ambient light.
+4. id "bg_kennel": An Enforcer’s small private room in the Bureau quarters: a narrow bed, a bookshelf with a few old paper books, a dog bed with a chew toy on the floor, a small desk lamp giving warm dim light, a window showing the night city.

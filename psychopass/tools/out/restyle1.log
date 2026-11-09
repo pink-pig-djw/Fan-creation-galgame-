@@ -1,0 +1,9 @@
+R_office 1 items refs=assets/_bg_detailed/office.png
+R_scene 1 items refs=assets/_bg_detailed/scene.png
+[R_scene] exit 0 in 55s
+  ok  bg_scene -> assets\bg\scene.png
+[R_scene] 1/1 collected
+[R_office] exit 0 in 99s
+  ok  bg_office -> assets\bg\office.png
+[R_office] 1/1 collected
+ALL DONE: R_office R_scene

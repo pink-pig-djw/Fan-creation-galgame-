@@ -1,0 +1,5 @@
+[G_end] exit 0 in 261s
+  ok  cg_e_field -> assets\cg\e_field.png
+  ok  cg_e_ferry -> assets\cg\e_ferry.png
+  ok  cg_title_true -> assets\cg\title_true.png
+[G_end] 3/3 collected

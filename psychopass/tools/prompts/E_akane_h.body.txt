@@ -1,0 +1,2 @@
+1. id "ch_akane_home_sad": quietly sad: eyes lowered and unfocused, eyebrows drawn together slightly, mouth closed.
+2. id "ch_akane_home_smile": a small, soft, slightly tired smile.

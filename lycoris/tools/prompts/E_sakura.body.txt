@@ -1,0 +1,4 @@
+1. id "ch_sakura_angry": Expression: annoyed and angry, scowling, baring her teeth. Everything else unchanged.
+2. id "ch_sakura_surprised": Expression: surprised: eyes wide open, eyebrows raised, mouth a small open "o". Everything else unchanged.
+3. id "ch_sakura_scared": Expression: scared and nervous, sweat drop, forced smile. Everything else unchanged.
+4. id "ch_sakura_sulk": Expression: sulking, looking away, pouting, lollipop in her mouth. Everything else unchanged.

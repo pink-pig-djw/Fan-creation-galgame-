@@ -1,0 +1,5 @@
+1. id "bg_street": A small shopping street (shotengai) in Sumida ward, Tokyo, on a sunny September afternoon: low shop fronts with awnings and blank signs, bicycles parked, hanging lanterns, utility wires, a clear blue sky.
+2. id "bg_street_night": A quiet residential street in Tokyo at NIGHT: narrow asphalt road, a glowing vending machine, utility poles with wires, streetlamps casting pools of light, small houses and apartment blocks, nobody around.
+3. id "bg_alley_night": A narrow back alley between buildings in Tokyo at NIGHT: air conditioner units, pipes and stacked crates, a single bare lamp over a back door, wet asphalt, deep shadows at the far end.
+4. id "bg_river": The embankment of the Sumida River in Tokyo at sunset: a concrete riverside walkway with railings, a few trees, the wide river under an orange sky, bridges and the city skyline in the distance, warm orange and violet sky.
+5. id "bg_station": A Tokyo train station platform in the early evening: the yellow safety line, a bench, a roof with lights, the empty track, the sky turning orange beyond the platform roof.

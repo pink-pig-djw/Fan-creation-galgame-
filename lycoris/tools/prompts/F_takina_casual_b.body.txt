@@ -1,0 +1,2 @@
+1. id "ch_takina_casual_surprised": Expression: surprised: eyes wide open, eyebrows raised, mouth a small open "o". Everything else unchanged.
+2. id "ch_takina_casual_serious": Expression: serious and focused: eyebrows drawn level, mouth set firmly, sharp steady gaze. Everything else unchanged.

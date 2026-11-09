@@ -1,0 +1,29 @@
+R_lab 1 items refs=assets/_bg_detailed/lab.png
+R_lobby 1 items refs=assets/_bg_detailed/lobby.png
+R_grandma_house 1 items refs=assets/_bg_detailed/grandma_house.png
+R_akane_room 1 items refs=assets/_bg_detailed/akane_room.png
+R_akane_room_off 1 items refs=assets/_bg_detailed/akane_room_off.png
+R_scene 1 items refs=assets/_bg_detailed/scene.png
+R_scene_off 1 items refs=assets/_bg_detailed/scene_off.png
+[R_lab] exit 0 in 111s
+  ok  bg_lab -> assets\bg\lab.png
+[R_lab] 1/1 collected
+[R_grandma_house] exit 0 in 114s
+  ok  bg_grandma_house -> assets\bg\grandma_house.png
+[R_grandma_house] 1/1 collected
+[R_lobby] exit 0 in 197s
+  ok  bg_lobby -> assets\bg\lobby.png
+[R_lobby] 1/1 collected
+[R_akane_room_off] exit 0 in 119s
+  ok  bg_akane_room_off -> assets\bg\akane_room_off.png
+[R_akane_room_off] 1/1 collected
+[R_akane_room] exit 0 in 165s
+  ok  bg_akane_room -> assets\bg\akane_room.png
+[R_akane_room] 1/1 collected
+[R_scene_off] exit 0 in 109s
+  ok  bg_scene_off -> assets\bg\scene_off.png
+[R_scene_off] 1/1 collected
+[R_scene] exit 0 in 159s
+  ok  bg_scene -> assets\bg\scene.png
+[R_scene] 1/1 collected
+ALL DONE: R_lab R_lobby R_grandma_house R_akane_room R_akane_room_off R_scene R_scene_off
